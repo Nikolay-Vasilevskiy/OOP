@@ -1,6 +1,7 @@
 package oop_dz_3;
 //Продумать "иерархию" геометрических фигур в которой точно есть квадрат и прямоугольник
 //организовать возможность вычисления площади этих фигур методом getArea()
+
 abstract class Figure {
     private double sideA;
     private double sideB;
